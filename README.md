@@ -24,7 +24,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Mohd-Shahid-95/StayNest-hotel.git
+git clone https://github.com/shahid-95/StayNest-hotel.git
 
 # Navigate to project folder
 cd StayNest-hotel
@@ -43,6 +43,6 @@ https://wonderlust-travel.onrender.com
 ## 📧 Contact
 
 **Email:** [khannshahid95@gmail.com](mailto:khannshahid95@gmail.com)
-**GitHub:** Mohd-Shahid-95
+**GitHub:** shahid-95
 
 If you have any feedback or suggestions, feel free to reach out at **[khannshahid95@gmail.com](mailto:khannshahid95@gmail.com)**.
